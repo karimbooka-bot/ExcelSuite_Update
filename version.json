@@ -1,6 +1,6 @@
 {
-    "version": "3.0.0",
-    "download_url": "https://github.com/YOUR_USERNAME/ExcelSuite_Update/releases/download/v1.0.1/ExcelSuiteSetup.exe",
-    "notes": "First auto update test release.",
-    "mandatory": false
+  "version": "2.1.1",
+  "download_url": "https://github.com/karimbooka-bot/ExcelSuite_Update/releases/download/v2.1.1/ExcelSuiteSetup.exe",
+  "notes": "Test update release.",
+  "mandatory": false
 }
